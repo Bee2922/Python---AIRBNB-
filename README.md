@@ -1,1 +1,2 @@
-# Python---AIRBNB-
+# Python AIRBNB
+The AIRBNB dataset, sourced from kaggle.com com originally contained above 102,000 rows and 26 columns before the data cleaning process began. Some of the steps I took to ensure I have a more accurate a clean data was: I standardised the data to ensure it was more uniform, I removed duplicates and null values, I renamed to columns as I noticed some were written in Caps while others weren't, I dropped unnecessary columns that I didn't need etc. The last step I took was to export the cleaned data into a csv whiich can now be shared with other team members that would require it for further analysis
